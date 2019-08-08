@@ -1,0 +1,7 @@
+charset_test=€,´,�,�,?,?,?
+lsd=zPF3k
+locale=en_US
+email=sasasas
+pass=rterer
+default_persistent=0
+

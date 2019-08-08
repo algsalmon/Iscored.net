@@ -1,0 +1,41 @@
+Dear Aqeel,
+
+Here is the scenario.
+
+Step 1.
+
+Attached are sample code.
+
+queryimb.php works fine.
+
+querytree.php will be receiving string xml file.
+
+PHP Query page will receive an Query String like this
+http://www.mywebsite.com/query.php?id=2
+
+I will summarize everything.
+Step : 1
+Javascript  will be calling a PHP Page like this
+http://developer.yahoo.com/yui/examples/treeview/dynamic_tree.html
+
+
+var nodeLabel = encodeURI(node.label); 
+14	     
+15	    //prepare URL for XHR request: 
+16	     var sUrl = "Testphp/Query.php?query=" + nodeLabel; 
+
+Step 2
+It will be calling Webservice 
+http://www.ip.authenticdataproducts.com/IPService.asmx
+Provide a valid IP : 59.154.204.8
+
+Step 3
+Return the web services values in a javascript format.
+
+Thanks in advance for your help.
+
+Best regards,
+
+Rana Babar
+03334245845
+ranababar@gmail.com

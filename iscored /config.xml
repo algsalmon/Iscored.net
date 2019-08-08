@@ -1,0 +1,57 @@
+<config>
+	
+	<player
+	
+		autoplay="false"
+		url="video/video0001.xml"
+		x="0"
+		y="0"
+		width="400"
+		height="300"
+		
+		thumbWidth="100"
+		thumbHeight="75"
+		topGap="20"
+		bottomGap="30"
+		leftGap="15"
+		rightGap="15"
+		gap="10"
+		
+		loadingPreviewTime="2500"
+		loadingImageUrl="loading.png"
+		
+		logoImageUrl="logo.png"
+		logoLinkUrl="http://google.com"
+		
+		backgroundColor="#000000"
+		
+		autohideTime="0"
+	/>
+	<thumbs
+	
+		preloaderUrl="preloadingimage.png"
+		backgroundColor="#000"
+		borderColor="#FE3"
+		preloaderColor="#FE3"
+	/>
+	<controlls
+		backgroundColor="#039"
+		
+		playPauseButtonColor = "#FFF"
+		muteButtonColor = "#FFF"
+		
+		currentTimeTextColor="#FFF"
+		totalTimeTextColor="#FFF"
+		
+		currentTimeColor="#FF0000"
+		bufferTimeColor="#F90"
+		totalTimeColor="#AAA"
+		
+		currentVolumeColor="#FF0000"
+		totalVolumeColor="#AAA"
+	/>
+</config>
+
+
+
+
